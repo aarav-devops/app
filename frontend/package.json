@@ -9,10 +9,10 @@
       "eject": "react-scripts eject"
     },
     "dependencies": {
-      // Your dependencies go here
+      // Add your dependencies here if you have any
     },
     "devDependencies": {
-      // Your dev dependencies go here
+      // Add your development dependencies here if needed
     },
     "browserslist": {
       "production": [">0.2%", "not dead", "not op_mini all"],
