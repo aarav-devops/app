@@ -1,0 +1,16 @@
+{
+    "name": "your-backend-app",
+    "version": "1.0.0",
+    "description": "Your backend application description",
+    "main": "src/server.js",
+    "scripts": {
+      "start": "node src/server.js"
+    },
+    "dependencies": {
+      // Your dependencies go here
+    },
+    "devDependencies": {
+      // Your dev dependencies go here
+    }
+  }
+  
